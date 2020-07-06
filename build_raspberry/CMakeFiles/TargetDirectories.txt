@@ -1,0 +1,3 @@
+/home/pi/TuanDX/face-detection-MTCNN-ncnn/build_raspberry/CMakeFiles/rebuild_cache.dir
+/home/pi/TuanDX/face-detection-MTCNN-ncnn/build_raspberry/CMakeFiles/mtcnn.dir
+/home/pi/TuanDX/face-detection-MTCNN-ncnn/build_raspberry/CMakeFiles/edit_cache.dir
